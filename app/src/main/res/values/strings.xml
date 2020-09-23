@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Indian</string>
+
+    <string name="player1_score">Player 1: 0</string>
+    <string name="player2_score">Player 2: 0</string>
+    <string name="reset">Reset</string>
+    <string name="alert_dialog_restart_game">Restart Game</string>
+    <string name="alert_dialog_continue">Continue</string>Player 1: {0}
+</resources>
